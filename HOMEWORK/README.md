@@ -1,4 +1,5 @@
 # OOAD-WEEK11
+# นายวีรภัทร  แก่นจันทร์ 57030222
 ## State Diagram
 
 
@@ -173,3 +174,5 @@ else
 ### Diagram
 
 ![](https://github.com/weerapat1995/OOAD-WEEK11/blob/master/HOMEWORK/a5.png)
+
+# นายวีรภัทร  แก่นจันทร์ 57030222
